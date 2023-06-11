@@ -1,5 +1,4 @@
 import pandas as pd
-import pickle
 import streamlit as st
 from sklearn.neighbors import NearestNeighbors
 from sklearn.model_selection import train_test_split
